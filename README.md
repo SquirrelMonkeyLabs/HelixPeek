@@ -1,4 +1,5 @@
 # HelixPeek
+![Project Logo](dnalogo_small.png)
 
 Disclaimer:
 The information provided by HelixPeek is for educational and informational purposes only. It is not intended to diagnose, treat, or prevent any disease and should not be considered medical advice. The report is based on publicly available genetic markers (rsIDs) found in your raw DNA file, and their interpretation is limited in scope. Users are encouraged to verify any findings by consulting peer-reviewed scientific literature or qualified professionals.
